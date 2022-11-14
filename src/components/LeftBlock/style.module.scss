@@ -1,0 +1,26 @@
+@import "../../styles/media";
+.leftWrapper {
+  display: flex;
+  align-items: center;
+  gap: 128px;
+  width: 100%;
+  @include media-breakpoint-down(xxl) {
+    gap: 80px;
+  }
+  @include media-breakpoint-down(lg) {
+    flex-direction: column;
+    width: calc(100% - 40px);
+    margin: 0 auto;
+  }
+  @include media-breakpoint-down(sm) {
+    gap: 40px;
+  }
+  img {
+    width: calc(50% - 62px);
+    @include media-breakpoint-down(lg) {
+      width: calc(100% + 40px);
+      max-width: 150%;
+      margin-right: 0;
+    }
+  }
+}

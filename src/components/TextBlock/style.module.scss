@@ -1,0 +1,39 @@
+@import "../../styles/colors";
+@import "../../styles/fonts";
+@import "../../styles/media";
+.wrapper {
+  width: 600px;
+  max-width: calc(50% - 62px);
+  color: $text-color;
+  @include media-breakpoint-down(xxl) {
+    padding-right: 20px;
+  }
+  @include media-breakpoint-down(lg) {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+  }
+  .subtitle {
+    margin-bottom: 17px;
+    font-family: $title-font;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 110%;
+    @include media-breakpoint-down(xl) {
+      font-size: 32px;
+    }
+    @include media-breakpoint-down(sm) {
+      font-size: 24px;
+    }
+  }
+  p {
+    font-size: 18px;
+    margin: 0;
+    &:not(:last-child) {
+      margin-bottom: 17px;
+    }
+  }
+  @include media-breakpoint-down(sm) {
+    font-size: 14px;
+  }
+}
