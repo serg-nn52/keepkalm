@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/keepkalm/static/css/main.724947ab.css",
+    "main.js": "/keepkalm/static/js/main.8731e416.js",
+    "static/media/8.jpg": "/keepkalm/static/media/8.dadc606c4af57a55f0fb.jpg",
+    "static/media/4.jpg": "/keepkalm/static/media/4.685c625e06944cfda59d.jpg",
+    "static/media/5.jpg": "/keepkalm/static/media/5.ae0f2a58582c8af6a8af.jpg",
+    "static/media/1.jpg": "/keepkalm/static/media/1.20a445397affa07d9149.jpg",
+    "static/media/2.jpg": "/keepkalm/static/media/2.0090f9ba75f931bf125c.jpg",
+    "static/media/7.jpg": "/keepkalm/static/media/7.5a67a0d1bf8eff5a214b.jpg",
+    "static/media/3.jpg": "/keepkalm/static/media/3.8ff77b724f1c56b65872.jpg",
+    "static/media/6.jpg": "/keepkalm/static/media/6.ba6380fa072f48319e7a.jpg",
+    "static/media/OrchideaPro-Medium.woff": "/keepkalm/static/media/OrchideaPro-Medium.2d4c858d33acd9403d7a.woff",
+    "static/media/OrchideaPro-Medium.woff2": "/keepkalm/static/media/OrchideaPro-Medium.c59499aeab18220e5d08.woff2",
+    "static/media/logo.svg": "/keepkalm/static/media/logo.0b7b4165aec5c3b17ff47a9bcfb8959d.svg",
+    "static/media/phone.svg": "/keepkalm/static/media/phone.5a9f5b4f6f14c624aa604859fad98b0d.svg",
+    "index.html": "/keepkalm/index.html",
+    "main.724947ab.css.map": "/keepkalm/static/css/main.724947ab.css.map",
+    "main.8731e416.js.map": "/keepkalm/static/js/main.8731e416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724947ab.css",
+    "static/js/main.8731e416.js"
+  ]
+}
